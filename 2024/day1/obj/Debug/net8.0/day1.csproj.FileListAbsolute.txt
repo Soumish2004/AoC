@@ -1,0 +1,15 @@
+E:\zipp\advent of code\2024\day1\obj\Debug\net8.0\day1.GeneratedMSBuildEditorConfig.editorconfig
+E:\zipp\advent of code\2024\day1\obj\Debug\net8.0\day1.AssemblyInfoInputs.cache
+E:\zipp\advent of code\2024\day1\obj\Debug\net8.0\day1.AssemblyInfo.cs
+E:\zipp\advent of code\2024\day1\obj\Debug\net8.0\day1.csproj.CoreCompileInputs.cache
+E:\zipp\advent of code\2024\day1\obj\Debug\net8.0\day1.sourcelink.json
+E:\zipp\advent of code\2024\day1\bin\Debug\net8.0\day1.exe
+E:\zipp\advent of code\2024\day1\bin\Debug\net8.0\day1.deps.json
+E:\zipp\advent of code\2024\day1\bin\Debug\net8.0\day1.runtimeconfig.json
+E:\zipp\advent of code\2024\day1\bin\Debug\net8.0\day1.dll
+E:\zipp\advent of code\2024\day1\bin\Debug\net8.0\day1.pdb
+E:\zipp\advent of code\2024\day1\obj\Debug\net8.0\day1.dll
+E:\zipp\advent of code\2024\day1\obj\Debug\net8.0\refint\day1.dll
+E:\zipp\advent of code\2024\day1\obj\Debug\net8.0\day1.pdb
+E:\zipp\advent of code\2024\day1\obj\Debug\net8.0\day1.genruntimeconfig.cache
+E:\zipp\advent of code\2024\day1\obj\Debug\net8.0\ref\day1.dll

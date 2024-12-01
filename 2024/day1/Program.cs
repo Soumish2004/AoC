@@ -43,7 +43,7 @@ class day1{
                 help.Add(i,list2.Count(x => x == i));
                 part2 += i*help[i];
             }
-        }
+        } 
         Console.WriteLine(part2);
     }
 }
